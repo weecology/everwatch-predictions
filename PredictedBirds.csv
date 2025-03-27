@@ -52,6 +52,10 @@ Site,Date,label,count
 6thBridge,02_26_2021,Roseate Spoonbill,354
 6thBridge,02_26_2021,White Ibis,29
 6thBridge,02_26_2021,Wood Stork,2
+6thBridge,02_26_2025,Great Egret,526
+6thBridge,02_26_2025,Roseate Spoonbill,257
+6thBridge,02_26_2025,White Ibis,330
+6thBridge,02_26_2025,Wood Stork,10
 6thBridge,03_01_2023,Great Blue Heron,82
 6thBridge,03_01_2023,Great Egret,3397
 6thBridge,03_01_2023,Roseate Spoonbill,386
@@ -244,32 +248,6 @@ AlleyNorth,02_13_2020,Great Blue Heron,5
 AlleyNorth,02_13_2020,Great Egret,85
 AlleyNorth,02_13_2020,Roseate Spoonbill,114
 AlleyNorth,02_13_2020,White Ibis,156
-AlleyNorth,02_18_2021,Great Blue Heron,6
-AlleyNorth,02_18_2021,Great Egret,415
-AlleyNorth,02_18_2021,Roseate Spoonbill,58
-AlleyNorth,02_18_2021,White Ibis,64
-AlleyNorth,02_23_2021,Great Blue Heron,19
-AlleyNorth,02_23_2021,Great Egret,4069
-AlleyNorth,02_23_2021,Roseate Spoonbill,449
-AlleyNorth,02_23_2021,Snowy Egret,4
-AlleyNorth,02_23_2021,White Ibis,2018
-AlleyNorth,02_23_2021,Wood Stork,7
-AlleyNorth,03_16_2021,Great Blue Heron,13
-AlleyNorth,03_16_2021,Great Egret,4010
-AlleyNorth,03_16_2021,Roseate Spoonbill,90
-AlleyNorth,03_16_2021,White Ibis,7857
-AlleyNorth,03_16_2021,Wood Stork,67
-AlleyNorth,04_06_2021,Great Blue Heron,65
-AlleyNorth,04_06_2021,Great Egret,4849
-AlleyNorth,04_06_2021,Roseate Spoonbill,166
-AlleyNorth,04_06_2021,White Ibis,2853
-AlleyNorth,04_06_2021,Wood Stork,71
-AlleyNorth,04_14_2021,Great Blue Heron,44
-AlleyNorth,04_14_2021,Great Egret,6113
-AlleyNorth,04_14_2021,Roseate Spoonbill,507
-AlleyNorth,04_14_2021,Snowy Egret,1
-AlleyNorth,04_14_2021,White Ibis,3141
-AlleyNorth,04_14_2021,Wood Stork,12
 BigMel,04_28_2021,Great Blue Heron,12
 BigMel,04_28_2021,Great Egret,70
 BigMel,04_28_2021,Roseate Spoonbill,6
