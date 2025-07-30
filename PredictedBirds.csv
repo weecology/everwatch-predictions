@@ -342,6 +342,11 @@ CypressCity,03_23_2022,Great Egret,125
 CypressCity,03_23_2022,Roseate Spoonbill,34
 CypressCity,03_23_2022,White Ibis,1
 CypressCity,03_23_2022,Wood Stork,3
+CypressCity,03_24_2025,Great Blue Heron,29
+CypressCity,03_24_2025,Great Egret,62
+CypressCity,03_24_2025,Roseate Spoonbill,8
+CypressCity,03_24_2025,White Ibis,2
+CypressCity,03_24_2025,Wood Stork,3
 CypressCity,03_25_2020,Great Blue Heron,32
 CypressCity,03_25_2020,Great Egret,310
 CypressCity,03_25_2020,Roseate Spoonbill,83
@@ -369,6 +374,11 @@ CypressCity,04_01_2021,Great Egret,134
 CypressCity,04_01_2021,Roseate Spoonbill,17
 CypressCity,04_01_2021,White Ibis,1
 CypressCity,04_01_2021,Wood Stork,2
+CypressCity,04_02_2025,Great Blue Heron,18
+CypressCity,04_02_2025,Great Egret,45
+CypressCity,04_02_2025,Roseate Spoonbill,12
+CypressCity,04_02_2025,White Ibis,1
+CypressCity,04_02_2025,Wood Stork,6
 CypressCity,04_04_2023,Great Blue Heron,1
 CypressCity,04_04_2023,Great Egret,14
 CypressCity,04_04_2023,White Ibis,7
@@ -377,6 +387,11 @@ CypressCity,04_07_2022,Great Egret,92
 CypressCity,04_07_2022,Roseate Spoonbill,29
 CypressCity,04_07_2022,White Ibis,1
 CypressCity,04_07_2022,Wood Stork,4
+CypressCity,04_07_2025,Great Blue Heron,16
+CypressCity,04_07_2025,Great Egret,46
+CypressCity,04_07_2025,Roseate Spoonbill,9
+CypressCity,04_07_2025,White Ibis,4
+CypressCity,04_07_2025,Wood Stork,7
 CypressCity,04_08_2020,Great Blue Heron,28
 CypressCity,04_08_2020,Great Egret,278
 CypressCity,04_08_2020,Roseate Spoonbill,54
@@ -398,6 +413,11 @@ CypressCity,04_15_2020,Wood Stork,49
 CypressCity,04_15_2023,Great Blue Heron,4
 CypressCity,04_15_2023,Great Egret,10
 CypressCity,04_15_2023,White Ibis,1
+CypressCity,04_15_2025,Great Blue Heron,22
+CypressCity,04_15_2025,Great Egret,60
+CypressCity,04_15_2025,Roseate Spoonbill,23
+CypressCity,04_15_2025,White Ibis,4
+CypressCity,04_15_2025,Wood Stork,28
 CypressCity,04_16_2021,Great Blue Heron,27
 CypressCity,04_16_2021,Great Egret,103
 CypressCity,04_16_2021,Roseate Spoonbill,7
@@ -531,11 +551,21 @@ Hidden,03_24_2022,Great Egret,185
 Hidden,03_24_2022,Roseate Spoonbill,6
 Hidden,03_24_2022,White Ibis,1
 Hidden,03_24_2022,Wood Stork,2
+Hidden,03_25_2025,Great Blue Heron,71
+Hidden,03_25_2025,Great Egret,908
+Hidden,03_25_2025,Roseate Spoonbill,206
+Hidden,03_25_2025,White Ibis,272
+Hidden,03_25_2025,Wood Stork,252
 Hidden,03_29_2022,Great Blue Heron,6
 Hidden,03_29_2022,Great Egret,33
 Hidden,03_29_2022,Roseate Spoonbill,2
 Hidden,03_29_2022,White Ibis,6
 Hidden,03_29_2022,Wood Stork,1
+Hidden,04_03_2025,Great Blue Heron,35
+Hidden,04_03_2025,Great Egret,816
+Hidden,04_03_2025,Roseate Spoonbill,175
+Hidden,04_03_2025,White Ibis,113
+Hidden,04_03_2025,Wood Stork,144
 Hidden,04_06_2020,Great Egret,77
 Hidden,04_06_2020,Roseate Spoonbill,3
 Hidden,04_06_2020,White Ibis,1
@@ -545,6 +575,36 @@ Hidden,04_09_2021,Great Egret,1264
 Hidden,04_09_2021,Roseate Spoonbill,144
 Hidden,04_09_2021,White Ibis,1330
 Hidden,04_09_2021,Wood Stork,854
+Hidden,05_02_2025,Great Blue Heron,71
+Hidden,05_02_2025,Great Egret,929
+Hidden,05_02_2025,Roseate Spoonbill,451
+Hidden,05_02_2025,White Ibis,78
+Hidden,05_02_2025,Wood Stork,809
+Hidden,05_08_2025,Great Blue Heron,46
+Hidden,05_08_2025,Great Egret,1361
+Hidden,05_08_2025,Roseate Spoonbill,508
+Hidden,05_08_2025,White Ibis,101
+Hidden,05_08_2025,Wood Stork,601
+Hidden,05_15_2025,Great Blue Heron,41
+Hidden,05_15_2025,Great Egret,1157
+Hidden,05_15_2025,Roseate Spoonbill,356
+Hidden,05_15_2025,White Ibis,73
+Hidden,05_15_2025,Wood Stork,454
+Hidden,05_29_2025,Great Blue Heron,47
+Hidden,05_29_2025,Great Egret,520
+Hidden,05_29_2025,Roseate Spoonbill,211
+Hidden,05_29_2025,White Ibis,54
+Hidden,05_29_2025,Wood Stork,133
+Hidden,06_05_2025,Great Blue Heron,27
+Hidden,06_05_2025,Great Egret,224
+Hidden,06_05_2025,Roseate Spoonbill,68
+Hidden,06_05_2025,White Ibis,29
+Hidden,06_05_2025,Wood Stork,15
+Hidden,06_12_2025,Great Blue Heron,23
+Hidden,06_12_2025,Great Egret,99
+Hidden,06_12_2025,Roseate Spoonbill,70
+Hidden,06_12_2025,White Ibis,9
+Hidden,06_12_2025,Wood Stork,4
 HiddenLittle,03_24_2022,Great Blue Heron,4
 HiddenLittle,03_24_2022,Great Egret,201
 HiddenLittle,03_24_2022,Roseate Spoonbill,9
@@ -802,11 +862,31 @@ JetportNew,04_19_2022,Great Egret,123
 JetportNew,04_19_2022,Roseate Spoonbill,17
 JetportNew,04_19_2022,White Ibis,4
 JetportNew,04_19_2022,Wood Stork,11
+JetportNew,05_15_2025,Great Blue Heron,35
+JetportNew,05_15_2025,Great Egret,210
+JetportNew,05_15_2025,Roseate Spoonbill,81
+JetportNew,05_15_2025,White Ibis,72
+JetportNew,05_15_2025,Wood Stork,112
+JetportNew,05_22_2025,Great Blue Heron,26
+JetportNew,05_22_2025,Great Egret,159
+JetportNew,05_22_2025,Roseate Spoonbill,69
+JetportNew,05_22_2025,White Ibis,60
+JetportNew,05_22_2025,Wood Stork,78
+JetportNew,05_29_2025,Great Blue Heron,18
+JetportNew,05_29_2025,Great Egret,137
+JetportNew,05_29_2025,Roseate Spoonbill,14
+JetportNew,05_29_2025,White Ibis,58
+JetportNew,05_29_2025,Wood Stork,40
 JetportNew,06_05_2025,Great Blue Heron,3
 JetportNew,06_05_2025,Great Egret,75
 JetportNew,06_05_2025,Roseate Spoonbill,12
 JetportNew,06_05_2025,White Ibis,23
 JetportNew,06_05_2025,Wood Stork,8
+JetportNew,06_12_2025,Great Blue Heron,23
+JetportNew,06_12_2025,Great Egret,167
+JetportNew,06_12_2025,Roseate Spoonbill,58
+JetportNew,06_12_2025,White Ibis,42
+JetportNew,06_12_2025,Wood Stork,4
 JetportSouth,02_15_2021,Great Blue Heron,25
 JetportSouth,02_15_2021,Great Egret,505
 JetportSouth,02_15_2021,Roseate Spoonbill,15
